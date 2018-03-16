@@ -17,7 +17,7 @@ Have a Ruby environment like RVM installed
 ### Start in dev mode
 ```bundle exec rails s```
 
-# Authentication
+## Authentication
 
 Uses JWT based authentication
 
